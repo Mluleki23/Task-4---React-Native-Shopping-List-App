@@ -58,4 +58,6 @@ export default function ShoppingList() {
 const styles = StyleSheet.create({
   container: { flex: 1 },
   empty: { textAlign: "center", marginTop: 24, color: "#666" },
+  footer: { padding: 16, alignItems: "center" },
+  footerText: { color: "#666", fontSize: 12 },
 });
