@@ -35,7 +35,9 @@ export default function ShoppingItem({ item, onEdit }: Props) {
         }
         style={styles.checkbox}
       >
-        <Text style={{ fontSize: 18 }}>{item.purchased ? "☑" : "☐"}</Text>
+        <Text style={{ fontSize: 18, color: "#000" }}>
+          {item.purchased ? "☑" : "☐"}
+        </Text>
       </TouchableOpacity>
 
       <View style={styles.content}>
