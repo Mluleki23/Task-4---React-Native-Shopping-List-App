@@ -1,4 +1,4 @@
-
+<img src="https://socialify.git.ci/Mluleki23/Task-4---React-Native-Shopping-List-App/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="Task-4---React-Native-Shopping-List-App" width="640" height="320" />
 
 # 🛒 ShopList
 
